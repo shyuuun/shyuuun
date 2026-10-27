@@ -1,10 +1,8 @@
 # Hi 👋, I'm Frederick Vigilia
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shyuuun&label=Profile views&color=0e75b6&style=flat" alt="shyuuun" /> </p>
-
 - 🔭 I'm currently working on **Hoppura! - A cosplay community app**
 
-- 🌱 I'm currently learning **System Design**
+- 🌱 I'm currently learning **System Design**, **Swift**, **iOS Development**
 
 - 👯 I'm looking to collaborate on **any projects that will make me interested in**
 
