@@ -1,18 +1,18 @@
-# Hi 👋, I'm Frederick Vigilia
+# Hi, I'm Frederick Vigilia
 
-- 🔭 I'm currently working on **Hoppura! - A cosplay community app**
+- I'm currently working on **Hoppura! - A cosplay community app**
 
-- 🌱 I'm currently learning **System Design**, **Swift**, **iOS Development**
+- I'm currently learning **System Design**, **Swift**, **iOS Development**
 
-- 👯 I'm looking to collaborate on **any projects that will make me interested in**
+- I'm looking to collaborate on **any projects that will make me interested in**
 
-- 🤝 I'm looking for help with **System Design**
+- I'm looking for help with **System Design**
 
-- 💬 Ask me about **Flutter and Dart**
+- Ask me about **Flutter and Dart**
 
-- 📫 How to reach me **frederick.vigilia21@gmail.com**
+- How to reach me **frederick.vigilia21@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[https://kokutaro.dev](https://kokutaro.dev)**
+- All of my projects are available at **[https://kokutaro.dev](https://kokutaro.dev)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
